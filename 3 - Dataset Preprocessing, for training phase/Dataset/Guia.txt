@@ -1,0 +1,7 @@
+3 junho 2025
+---------------------
+
+Dataset com todos os dados
+Dataset sem outliers do box plot (1.20)
+Dataset sem outliers do box plot (1.50)
+
